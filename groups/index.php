@@ -1,7 +1,6 @@
 
 
 <?php include 'common/header.php'?>
-
     <!-- Topbar Start -->
     <div class="container-fluid bg-dark p-0 wow fadeIn" data-wow-delay="0.1s">
         <div class="row gx-0 d-none d-lg-flex">
